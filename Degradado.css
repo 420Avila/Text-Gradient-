@@ -1,6 +1,7 @@
+
 h1 {
     text-align: center;
-    font-family: system-ui;
+    font-family: 'Bungee Spice', cursive;
     color: transparent;
     font-size: 148px;
     font-weight: 600;
@@ -8,8 +9,10 @@ h1 {
     background-image: linear-gradient(
         180deg,
         #ffffff,
-        #f0c192,
-        #db750f,
+        #6bee00,
+        #ffee00,
+        #f38c26,
+        #cf6800,
         #ff8000
     );
     background-clip: text;
